@@ -61,3 +61,13 @@ Control your Windows system volume using real-time hand gestures via webcam! Thi
 ```bash
 git clone https://github.com/yourusername/Vol_Ctrl_prog.git
 cd Vol_Ctrl_prog
+
+pip install -r requirements.txt
+
+Run main.py
+
+Vol_Ctrl_prog/
+│
+├── main.py             # Main script
+├── README.md           # Project documentation
+└── requirements.txt    # Required libraries
