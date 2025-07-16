@@ -66,8 +66,3 @@ pip install -r requirements.txt
 
 Run main.py
 
-Vol_Ctrl_prog/
-│
-├── main.py             # Main script
-├── README.md           # Project documentation
-└── requirements.txt    # Required libraries
